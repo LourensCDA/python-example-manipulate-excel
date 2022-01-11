@@ -16,7 +16,7 @@ For more info on installation and usage please visit [https://github.com/pypa/pi
 
 The basics to install pipenv on Windows is
 
-```ps
+```
 pip install pipenv
 ```
 
@@ -26,7 +26,7 @@ To run the project after installing pipenv:
 2.  Navigate to the location of the repo
 3.  Run the following command
 
-```ps
+```
 pipenv run python openpyxl_example.py
 ```
 
