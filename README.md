@@ -1,4 +1,4 @@
-(https://circleci.com/gh/google/pybadges) ![python versions](pyversons.svg)
+![python versions](pyversons.svg)
 
 # Reading EXCEL files using openpyxl
 
