@@ -30,4 +30,4 @@ To run the project after installing pipenv:
 pipenv run python openpyxl_example.py
 ```
 
-This will start the virtual enviroment, retrive the relevant packages and run.
+This will start the virtual enviroment, retrieve the relevant packages and run.
