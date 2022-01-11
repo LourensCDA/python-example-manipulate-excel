@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/google/pybadges.svg?style=svg)](https://circleci.com/gh/google/pybadges) ![python versions](pyversons.svg)
+
 # Reading EXCEL files using openpyxl
 
 This project was created as an example of using the openpyxl package to read and manipulate an excel file. For more info on openpyxml visit [https://openpyxl.readthedocs.io/en/stable/](https://openpyxl.readthedocs.io/en/stable/).
